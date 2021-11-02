@@ -4,9 +4,9 @@
  ## Exemple of visualisation
  
 
-<p align="center">
-	<img width="460" id="image1" src="Main.png" />
-	<img width="460" id="image2" src="Example1.png" />
+<p align="center" width="460">
+	<img id="image1" src="Main.png" />
+	<img id="image2" src="Example1.png" />
 	<img width="460" id="image3" src="Example2.png" />
 	<img width="460" id="image4" src="Example3.png" />
 	<img width="460" id="image5" src="Example4.png" />
