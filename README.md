@@ -3,12 +3,8 @@
  
  ## Exemple of visualisation
  
-<style>
-.aligncenter {
-    text-align: center;
-}
-</style>
-<p class="aligncenter">
+
+<p align="center">
 	
 	<img id="image" src="Main.png" />
 	<img id="image" src="Example1.png" />
