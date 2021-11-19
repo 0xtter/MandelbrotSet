@@ -1,7 +1,14 @@
 # MandelbrotSet
  A Mandelbrot set visualisation made in Python
- 
- ## Exemple of visualisation
+
+Learn more about the <a href = "https://en.wikipedia.org/wiki/Mandelbrot_set">Mandelbrot set </a>
+
+## The Mandelbrot set Explorer
+
+<p align="center" width="460"><img src="Application.png"/></p>
+
+## Exemple of visualisation
+
  
 
 <p align="center" width="460">
